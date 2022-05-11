@@ -10,16 +10,16 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/kwjen/clustering_dashboard.git
+$ git clone https://github.com/kwjen/solar_dashboard.git
 
 # Go into the repository
-$ cd clustering_dashboard
+$ cd solar_dashboard
 
 # Build Docker image
-$ docker build -t clustering_dashboard .
+$ docker build -t solar_dashboard .
 
 # Run the app
-$ docker run --rm -p 3838:3838 clustering_dashboard
+$ docker run --rm -p 3838:3838 solar_dashboard
 ```
 
 ## License
